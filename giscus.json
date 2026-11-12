@@ -1,0 +1,5 @@
+{
+  "origins": ["https://castroflavio.com", "https://www.castroflavio.com"],
+  "originsRegex": ["https://[a-z0-9-]+\\.(castro-6yc|website-7gz)\\.pages\\.dev", "http://localhost:[0-9]+"],
+  "defaultCommentOrder": "oldest"
+}
